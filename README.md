@@ -3,19 +3,28 @@
 
 <div align="center">
   
-  <a href="https://github.com/leandrocassiano">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dev-marcos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marcos&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/dev-marcos">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dev-marcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marcos&layout=compact&langs_count=8&theme=dark"/>
     
 </div><br>
   
 <div style="display: inline_block">
   
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="L-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img align="center" alt="L-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align='right' height="90" src="https://c.tenor.com/IqNYjIsNUOkAAAAC/cat-i-need-coffee.gif">
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="C" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Qt" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="R" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+
+  
      
 </div><br>
   
