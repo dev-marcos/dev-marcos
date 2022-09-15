@@ -1,5 +1,14 @@
-### Olá! Eu sou o Marcos Rocha. 
 
+<h2 align = "justify"> 
+  Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> me chamo Marcos
+</h2>
+
+<p align = "justify">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Marcos_Rocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-marcos/)](https://www.linkedin.com/in/dev-marcos/)
+  [![Gmail Badge](https://img.shields.io/badge/-marcosr@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosviniciusrochadasilva@gmail.com)](mailto:marcosviniciusrochadasilva@gmail.com)
+
+</p>
 
 <div align="center">
   
@@ -26,11 +35,4 @@
 
   
      
-</div><br>
-  
-  
-<div> 
-  
-  <a href="https://www.linkedin.com/in/dev-marcos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
