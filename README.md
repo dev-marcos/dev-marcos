@@ -6,8 +6,9 @@
 <p align = "justify">
 
   [![Linkedin Badge](https://img.shields.io/badge/-Marcos_Rocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-marcos/)](https://www.linkedin.com/in/dev-marcos/)
+  [![Instagram Badge](https://img.shields.io/badge/-Marcos%20Rocha-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eusoumarcosrocha/)](https://www.instagram.com/eusoumarcosrocha/)
   [![Gmail Badge](https://img.shields.io/badge/-marcosr@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosviniciusrochadasilva@gmail.com)](mailto:marcosviniciusrochadasilva@gmail.com)
-
+  
 </p>
 
 <div align="center">
